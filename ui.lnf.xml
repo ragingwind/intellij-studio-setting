@@ -1,0 +1,16 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>
